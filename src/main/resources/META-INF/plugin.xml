@@ -17,6 +17,13 @@
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
+        <action
+                id="StackOverflow.Search.Editor"
+                class="com.alpha.StartTimer"
+                text="Check plugin work"
+                description="Check plugin work"
+                icon="AllIcons.Ide.Rating">
+            <add-to-group group-id="ToolbarRunGroup" anchor="last"/>
+        </action>
     </actions>
 </idea-plugin>
