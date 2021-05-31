@@ -20,7 +20,7 @@
         <action
                 id="StackOverflow.Search.Editor"
                 class="com.alpha.StartTimer"
-                text="Check plugin work"
+                text="Check plugin works"
                 description="Check plugin work"
                 icon="AllIcons.Ide.Rating">
             <add-to-group group-id="ToolbarRunGroup" anchor="last"/>
