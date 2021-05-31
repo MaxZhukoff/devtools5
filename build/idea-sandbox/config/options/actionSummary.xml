@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="5" l="1621964734565" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1621962000498" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1621961999894" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1621962007842" />
+    </e>
+    <e n="GotoLine">
+      <i c="2" l="1621964934063" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1621962009117" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1621961738926" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1621961731485" />
+    </e>
+  </component>
+</application>

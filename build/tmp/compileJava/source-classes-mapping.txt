@@ -1,0 +1,2 @@
+plugin/DialogMenu.java
+ plugin.DialogMenu
