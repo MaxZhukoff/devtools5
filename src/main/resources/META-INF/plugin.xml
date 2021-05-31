@@ -23,7 +23,7 @@
                 text="Check plugin work"
                 description="Check plugin work"
                 icon="AllIcons.Ide.Rating">
-            <add-to-group group-id="ToolbarRunGroup" anchor="last"/>
+            <add-to-group group-id="ToolbarRunGroup anchor="last"/>
         </action>
     </actions>
 </idea-plugin>
