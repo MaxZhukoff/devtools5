@@ -53,4 +53,8 @@ public class CustomDialogWrapper extends DialogWrapper {
         dialogPanel.add(button2);
         return dialogPanel;
     }
+
+    public void setNotify() {
+        Notification notification = new Notification(Float.parseFloat(textField.getText()), type, project);
+    }
 }

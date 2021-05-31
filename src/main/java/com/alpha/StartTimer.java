@@ -7,6 +7,9 @@ import org.jetbrains.annotations.NotNull;
 public class StartTimer extends AnAction {
     @Override
     public void actionPerformed(@NotNull AnActionEvent e) {
-        // Create dialog window
+        CustomDialogWrapper customDialogWrapper = new CustomDialogWrapper(e.getProject());
+        if (customDialogWrapper.showAndGet()) {
+            customDialogWrapper.setNotify();
+        }
     }
 }
